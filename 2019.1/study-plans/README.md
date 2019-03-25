@@ -2,8 +2,8 @@
 ## College subjects
 - [Arquitetura de Computadores](../arquitetura-yuri/README.md)
 - [Cálculo 2](../calculo2-nicolas/README.md)
-- Interação Humano Computador
-- Álgebra Linear
+- [Interação Humano Computador](../interacao-humano-computador-catia/README.md)
+- [Álgebra Linear](../algebra-linear-marcos/README.md)
 - [Matemática Discreta](../matematica-discreta-rudini/README.md)
 ## Things to learn
 ### Java

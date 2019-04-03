@@ -1,4 +1,5 @@
 # 002-exercicio
+
 ```html
 <html lang="pt-br">
 <!-- tag HTML. indicano que o documento é um HTML -->

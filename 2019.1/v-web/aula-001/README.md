@@ -50,10 +50,10 @@ A tag `<body>` é utilizada para o conteúdo. **Ocorre a renderização** de seu
 Escreva um HTML com tags com significados
 
 ### Exercícios
-- 002-exercicio.
+1. 002-exercicio.
   1. Criar um cabeçalho com um título e barra de navegação.
-  2. Criar um corpo com algum conteúdo.
-  3. Criar um rodapé.
+  1. Criar um corpo com algum conteúdo.
+  1. Criar um rodapé.
 
 ### Materiais
 - [001-estrutura](001-estrutura/README.md)

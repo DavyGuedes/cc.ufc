@@ -14,26 +14,24 @@ Linguagem de marcação de hyper texto
 - JavaScript - Comportamento
 
 ### Tags
-- <div>
-- <section>
-- <header>
-- <article>
-- <footer>
-- <ul> e <ol>
-- <form>
-#### HTML
-Primeira tag. Indica que o arquivo é um hyper texto
-
+```html
+ <div>
+ <section>
+ <header>
+ <article>
+ <footer>
+ <ul> e <ol>
+ <form>
 ```
+#### HTML
+A tag `html` diz ao navegador que o arquivo é um documento HTML.
+
+```html
 	<html>...</html>
 ```
 
 #### HEAD e BODY
-```
-	<head>...</head>
-```
-
-É utilizado para as configurações. Não ocorre a renderização.
+A tag `<head>` é utilizada para as configurações, como imports de folhas de estilo (css) ou scripts (javascript). **Não ocorre a renderização.**
 ```
 	<html>
 		<head>...</head>
@@ -42,26 +40,27 @@ Primeira tag. Indica que o arquivo é um hyper texto
 	...
 	</html>
 ```
-É utilizado para o conteúdo. Ocorre a renderização.
+A tag `<body>` é utilizada para o conteúdo. **Ocorre a renderização** de seus elementos.
 
 #### DIV e SECTION
 ```
 	<div>...</div>
 ```
+### Dica
 Escreva um HTML com tags com significados
 
 ### Exercícios
 #### 001.
 1. Criar um cabeçalho com um título e barra de navegação.
-1. Criar um corpo com algum conteúdo.
-1. Criar um rodapé.
+2. Criar um corpo com algum conteúdo.
+3. Criar um rodapé.
 
 ### Materiais
-[001-estrutura.html](001-estrutura/index.html)
-[002-exercicio.html](002-exercicio/index.html)
-[003-formularios.html](003-formularios/index.html)
-[004-checkbox.html](004-checkbox/index.html)
-[005-listas.html](005-listas/index.html)
+- [001-estrutura](001-estrutura/README.md)
+- [002-exercicio](002-exercicio/README.md)
+- [003-formularios](003-formularios/README.md)
+- [004-checkbox](004-checkbox/README.html)
+- [005-listas](005-listas/README.md)
 
 
 

@@ -1,3 +1,14 @@
 # V-WEB
+Nesse primeiro módulo do V-Web estaremos ensinando Vue.js. Esse framework serve para criação de interfaces de usuário reativa e progressiva. Ele vem ganhando popularidade por causa de sua simplicidade em relação aos outros frameworks front-end e vem sendo adotado para alguns projetos. Entre eles está:
 
-[aula-001](aula-001\ 03-04)
+- Octimine(https://www.octimine.com/)
+- HappyPlants(https://happyplants.garden)
+- Clipr(https://clipr.xyz/)
+- My Nintendo(https://my.nintendo.com/)
+
+O framework vem em constante crescimento e possui uma performance comparada ao React. Por isso, não perca a oportunidade de aprendê-lo no V-Web. As vagas estão acabando!
+
+Link para inscrição: https://goo.gl/forms/qJwnqop8C4GNuZOI2
+
+## Aulas
+- [Aula 1, 03/04/2019](aula-001/README.md)

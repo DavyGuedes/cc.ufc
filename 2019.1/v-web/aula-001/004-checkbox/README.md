@@ -11,7 +11,7 @@
 		<label for="email-id">Nome</label>
 		<input id="email-id" type"e-mail" />
 
-		<label for"senha-id">Senha</label>
+		<label for="senha-id">Senha</label>
 		<input id="senha-id" type="password">
         
         <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>

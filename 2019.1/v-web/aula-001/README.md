@@ -32,7 +32,7 @@ A tag `html` diz ao navegador que o arquivo é um documento HTML.
 
 #### HEAD e BODY
 A tag `<head>` é utilizada para as configurações, como imports de folhas de estilo (css) ou scripts (javascript). **Não ocorre a renderização.**
-```
+```html
 	<html>
 		<head>...</head>
 		...
@@ -43,17 +43,17 @@ A tag `<head>` é utilizada para as configurações, como imports de folhas de e
 A tag `<body>` é utilizada para o conteúdo. **Ocorre a renderização** de seus elementos.
 
 #### DIV e SECTION
-```
+```html
 	<div>...</div>
 ```
 ### Dica
 Escreva um HTML com tags com significados
 
 ### Exercícios
-#### 001.
-1. Criar um cabeçalho com um título e barra de navegação.
-2. Criar um corpo com algum conteúdo.
-3. Criar um rodapé.
+- 002-exercicio.
+  1. Criar um cabeçalho com um título e barra de navegação.
+  2. Criar um corpo com algum conteúdo.
+  3. Criar um rodapé.
 
 ### Materiais
 - [001-estrutura](001-estrutura/README.md)

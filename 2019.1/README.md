@@ -8,6 +8,8 @@
 - [Álgebra Linear](algebra-linear-marcos/README.md)
 - [Matemática Discreta](matematica-discreta-rudini/README.md)
 
+## Extra subjects
+- [V-Web](v-web/README.md): Curso de introdução à programação Web com Vue.js
 ## Things to learn
 
 ### Java

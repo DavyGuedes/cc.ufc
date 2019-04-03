@@ -9,23 +9,20 @@
 - [Matemática Discreta](matematica-discreta-rudini/README.md)
 
 ## Extra subjects
-- [V-Web](v-web/README.md): Curso de introdução à programação Web com Vue.js
+- [V-Web](v-web/README.md): Curso de introdução à programação Web com Vue.js, ministrado pelo PET Computação, da UFC.
 
-## Things to learn
+## Other things that I want to learn, study and do in this semester
 
-### Java
-- Java 11+
-- Spring MVC for REST endpoints
-- JSON Web Token implementation with Spring Boot for protect REST endpoints
-
-### Cloud Native
-- Docker Swarm
-- Kubernetes
-
-### Javascript
-- Core language
-- ReactJS
-- Gatsby.js
+1. Java
+   - Learn Java 9, 10 and 11 from [Java: The Complete Reference, 11th edition](http://a.co/d/j1Mvpb2)
+   - Implementation of Spring Data REST endpoints and JSON Web Token (doing [here](https://github.com/DavyGuedes/cardatabase))
+1. Cloud Native
+   -  Docker Swarm 
+   - Kubernetes
+1. Javascript
+   - Core language, from [Eloquent JavaScript, 3rd edition](http://a.co/d/4fo2dRx) book
+   - Learn ReactJS
+   - Deploy a Gatsby blog
 
 ## Timesheet
 

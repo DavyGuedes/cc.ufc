@@ -60,7 +60,7 @@ Escreva um HTML com tags com significados
 - [001-estrutura](001-estrutura/README.md)
 - [002-exercicio](002-exercicio/README.md)
 - [003-formularios](003-formularios/README.md)
-- [004-checkbox](004-checkbox/README.html)
+- [004-checkbox](004-checkbox/README.md)
 - [005-listas](005-listas/README.md)
 
 

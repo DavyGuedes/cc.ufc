@@ -1,4 +1,5 @@
 # Study Plans for 2019.1
+
 ## College subjects
 
 - [Arquitetura de Computadores](arquitetura-yuri/README.md)
@@ -8,13 +9,16 @@
 - [Matemática Discreta](matematica-discreta-rudini/README.md)
 
 ## Things to learn
+
 ### Java
 - Java 11+
 - Spring MVC for REST endpoints
 - JSON Web Token implementation with Spring Boot for protect REST endpoints
+
 ### Cloud Native
 - Docker Swarm
 - Kubernetes
+
 ### Javascript
 - Core language
 - ReactJS

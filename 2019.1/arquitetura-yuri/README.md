@@ -1,5 +1,8 @@
 # Arquitetura de Computadores, prof.: Yuri
 
+# Aulas (em construção)
+- [27/03/2019](aulas/25-03-2019-README.md)
+
 # Informações
 - 2 avaliações
     - Grupos de até 10 pessoas

@@ -16,5 +16,5 @@
 1. Implementação do processador X86
 
 # Página da disciplina
- - http://www.lia.ufc.br/~yuri/20191/arquitetura/
+ - [~yuri/20191/arquitetura/](http://www.lia.ufc.br/~yuri/20191/arquitetura/)
 

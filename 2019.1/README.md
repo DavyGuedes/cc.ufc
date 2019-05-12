@@ -9,6 +9,7 @@
 - [Matemática Discreta](matematica-discreta-rudini/README.md)
 
 ## Extra subjects
+
 - [V-Web](v-web/README.md): Curso de introdução à programação Web com Vue.js, ministrado pelo PET Computação, da UFC.
 
 ## Other things that I want to learn, study and do in this semester
@@ -17,7 +18,7 @@
    - Learn Java 9, 10 and 11 from [Java: The Complete Reference, 11th edition](http://a.co/d/j1Mvpb2)
    - Implementation of Spring Data REST endpoints and JSON Web Token (doing [here](https://github.com/DavyGuedes/cardatabase))
 1. Cloud Native
-   -  Docker Swarm 
+   - Docker Swarm
    - Kubernetes
 1. Javascript
    - Core language, from [Eloquent JavaScript, 3rd edition](http://a.co/d/4fo2dRx) book
@@ -26,13 +27,13 @@
 
 ## Timesheet
 
-|                  | Domingo   | Segunda   | Terça     | Quarta    | Quinta    | Sexta     |
-| ---              | ---       | ---       | ---       | ---       | ---       | ---       |
-| 8:00 - 10:00     |           | MD        |           | MD        |           |           |
-| 10:00 - 12:00    |           | Cálculo 2 |           | Cálculo 2 |           |           |
-| 13:00 - 14:00    |           |           |           |           |           |           |
-| 14:00 - 16:00    |           |           | AC        |           | AC        |           |
-| 16:00 - 18:00    |           |           | IHC       |           | IHC       |           |
-| 18:00 - 20:00    |           |           |           |           | AL        |           |
-| 20:00 - 22:00    |           |           |           |           | AL        |           |
-| 22:00 - 23:00    |           |           |           |           |           |           |
+|                  | Domingo   | Segunda        | Terça        | Quarta         | Quinta        | Sexta          | Sábado             |
+| ---              | ---       | ---            | ---          | ---            | ---           | ---            | ---                |
+| 8:00 - 10:00     |           | **MD**         | AL           | **MD**         | IHC           | **MD**         | AC                 |
+| 10:00 - 12:00    |           | **Cálculo 2**  | Cálculo 2    | **Cálculo 2**  | AL            | **Cálculo 2**  | AL                 |
+| 13:00 - 14:00    |           | AC             |              | Coaching       |               | AL             | AC                 |
+| 14:00 - 16:00    |           | IHC            | *AC*         | Coaching       | **AC**        | Cálculo 2      | *Bolsa*            |
+| 16:00 - 18:00    |           | Cálculo 2      | *IHC*        |                | **IHC**       | AC             | *Projeto*          |
+| 18:00 - 20:00    |           | MD             | MD           | *Projeto*      | **AL**        | AL             | *Java 11*          |
+| 20:00 - 22:00    |           | *Projeto*      | *Bolsa*      | AL             | **AL**        | *Bolsa*        | *Projeto/Bolsa*    |
+| 22:00 - 23:00    |           | *Caminhada*    | *Caminhada*  | *Caminhada*    | *Caminhada*   | *Caminhada*    | *Caminhada*        |

@@ -2,7 +2,7 @@
 
 ## College subjects
 
-- [Transmissão de Dados](transmissao-de-dados/README.md)
+- [Transmissão de Dados](transmissao-de-dados-emanuel/README.md)
 - Análise e Projeto de Sistemas
 - Estrutura de Dados
 

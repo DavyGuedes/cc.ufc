@@ -5,7 +5,9 @@ Ciências da Computação / Universidade Federal do Ceará - 2019.1
 ## Semestres Letivos
 
 - [2019.1](2019.1/README.md)
+- [2019.2](2019.2/README.md)
 - [20xx.y](planejamento.md)
+
 ## Links Úteis
 
 - [SIGAA UFC](http://si3.ufc.br)

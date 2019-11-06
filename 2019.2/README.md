@@ -4,5 +4,4 @@
 
 - [Transmissão de Dados](transmissao-de-dados-emanuel/README.md)
 - Análise e Projeto de Sistemas
-- Estrutura de Dados
-
+- [Estrutura de Dados](estrutura-de-dados/README.md)
